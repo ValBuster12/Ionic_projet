@@ -1,0 +1,30 @@
+
+[
+    {
+        "id": "1",
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "genre": "Action-aventure",
+        "platform": "Nintendo Switch",
+        "releaseDate": "2017-03-03",
+        "description": "Un jeu d'action-aventure en monde ouvert se déroulant dans le vaste royaume d'Hyrule.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Elden Ring",
+        "genre": "RPG d'action",
+        "platform": "PlayStation, Xbox, PC",
+        "releaseDate": "2022-02-25",
+        "description": "Un RPG sombre et fantastique co-développé par FromSoftware et George R.R. Martin.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg"
+    },
+    {
+        "id": "3",
+        "title": "God of War Ragnarök",
+        "genre": "Action-aventure",
+        "platform": "PlayStation 4, PlayStation 5",
+        "releaseDate": "2022-11-09",
+        "description": "La suite du voyage de Kratos et Atreus dans la mythologie nordique.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/God_of_War_Ragnar%C3%B6k_cover_art.jpg"
+    }
+]
